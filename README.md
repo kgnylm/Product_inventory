@@ -15,7 +15,7 @@ This project provides a RESTful API for product inventory management. It is deve
 1. Clone the project:
 
 ```bash
-git clone [repo-url]
+git clone https://github.com/kgnylm/Product_inventory.git
 cd product_inventory
 ```
 
